@@ -1,8 +1,8 @@
 /*
 By: Kevin Tokola
 Last Updated: 2/7/2020
-Description: This class creates an object that can be used as a grid for a word search. It also has methods that assist
-in making a word search such a method that creates/resets a word list, methods that populate/reset the grid, and a
+Description: This class creates an object that can be used as a grid for the game. It also has methods that assist
+in making a word search. Such a method that creates/resets a word list, methods that populate/reset the grid, and a
 method that displays the word search grid and its associated word list.
 */
 
